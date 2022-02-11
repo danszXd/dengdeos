@@ -1,1 +1,3 @@
-# yang baca kontol
+# dengdeos tools
+
+copyright 2K22
